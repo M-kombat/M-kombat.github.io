@@ -8,6 +8,14 @@ header {
     backgroun-color: #000000;
     color:#fff
 }
+li {
+   display: inline-block;
+}
+a {
+   color: #ffffff;
+   padding: 10px;
+   text-decoration: none;
+}
 
 main {
     width: 900px;
