@@ -1,0 +1,230 @@
+body {
+    background-color: #202020;
+}
+
+header {
+    width: 100%;
+    background-color: #000000;
+    color:#fff
+}
+li {
+   display: inline-block;
+}
+a {
+   color: #ffffff;
+   padding: 10px;
+   text-decoration: none;
+}
+
+main {
+    width: 100%;
+    background-color: DarkOrchid;
+}
+
+/*------- INDEX --------*/
+.portada {
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+}
+
+.juego {
+    width: 100%;
+    height: 200px;
+    background-color: crimson;
+}
+
+.personajes {
+    width: 100%;
+    height: 200px;
+    background-color: LightGreen;
+}
+
+.historia {
+    width: 100%;
+    height: 200px;
+    background-color: DodgerBlue;
+}
+
+.compra {
+    width: 100%;
+    height: 800px;
+    background-color: #fbf4e8;
+}
+
+/*-------- JUEGO -------*/
+
+.general {
+    width: auto;
+    height: 200px;
+    background-color: peru;
+}
+
+.poderes {
+    width: auto;
+    height: 200px;
+    background-color: plum;
+}
+
+.fatalities {
+    width: auto;
+    height: 200px;
+    background-color: HotPink;
+}
+
+/*-------- PERSONAJES -------*/
+
+/*-------- HISTORIA -------*/
+
+.isla {
+    width: auto;
+    height: 200px;
+    background-color: DarkCyan;
+}
+
+.desafio {
+    width: auto;
+    height: 200px;
+    background-color: NavajoWhite;
+}
+
+/*-------- COMPRA -------*/
+
+#game {
+    height: 200px; 
+}
+.columnas {display:flex}
+.columna1 {
+    width: 250px;
+    height: 550px;
+    border: solid;
+    border-color:rgb(255, 183, 0);
+    padding: 20px;
+    margin: 5%;
+    background: linear-gradient( #d49c35, white);
+}
+.img1 {
+    width: 180px;
+    height: 230px;
+    margin: auto;
+    display: block;
+    margin-top: -20%;
+}
+
+
+.mk1 {
+    font-family: Bungee;
+    text-align: center;
+    font-size: 1.4rem;
+    margin-bottom: 0;
+    margin: 0;
+    margin-top: 6%;
+    line-height: 1.4;
+}
+.mk2 {
+    font-family: Bungee;
+    text-align: center;
+    font-size: 1.4rem;
+    margin-bottom: 0;
+    margin: 0;
+    margin-top: 8%;
+}
+.cosito{
+    margin-top: 5%;
+}
+.incluye {
+    font-family: Sarala;
+    font-size: 1.4rem;
+    margin-top: 4%;
+    margin-left: 5px;
+}
+ul {
+    font-size: 17px;
+    font-family: Sarala;
+    padding: 2px;
+    line-height: 2.2; 
+    margin-top: -1%;
+}
+.one {
+    line-height: 1.2;
+}
+.min {
+    font-size: 13px;
+    font-family: Sarala;
+    padding: 2px;
+    line-height: 2.2; 
+    margin-top: -1%;
+    margin-left: 4%;
+}
+.min2 {
+    font-size: 13px;
+    display: block;
+    margin-left: 10%;
+}
+
+#punto {
+    font-size: 7px;
+    padding: 2px;
+}
+#punto2 {
+    font-size: 5px;
+    padding: 2px;
+}
+
+
+.comprar {
+    width: 150px;
+    height: 50px;
+    background-color: yellow;
+    margin: auto;
+    margin-top: -5%;
+}
+
+.boton-comprar {
+    color: #000;
+    padding: 10px;
+    text-decoration: none;
+    font-family: fantasy;
+    line-height: 50px;
+    margin-left: 3%;
+    
+}
+#flecha {
+    margin-left: 4%;
+    font-size: 18px;
+}
+.columna2 {
+    width: 250px;
+    height: 550px;
+    border: solid;
+    border-color:rgb(255, 183, 0);
+    padding: 20px;
+    margin: 5%;
+    background: linear-gradient( #5b1c13, #daddde);
+}
+.columna3 {
+    width: 250px;
+    height: 550px;
+    border: solid;
+    border-color:rgb(255, 183, 0);
+    padding: 20px;
+    margin: 5%;
+    background: linear-gradient( #14171e, #d1d1d1);
+}
+
+h6 {
+    font-family: Sarala;
+    text-align: center;
+    font-size: 1.1rem;
+    margin-bottom: 0;
+    margin: 0;
+    margin-top: 6%;
+    line-height: 2.8;
+}
+.adquirir {
+    width: 290px;
+    height: 50px;
+    background: linear-gradient( orange,white,orange);
+    margin-left: -8%;
+}
+
