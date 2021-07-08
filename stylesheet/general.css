@@ -228,6 +228,7 @@ h6 {
     margin-left: -8%;
 }
 @media screen and (max-width: 400px) {
-    body {display: contents;}
+    body {width: 100%;
+          display: contents;}
 }
 
