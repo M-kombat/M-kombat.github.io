@@ -286,7 +286,8 @@ footer {
 #game {
     height: 200px; 
 }
-.columnas {display:flex}
+.columnas {display:flex;
+justify-content: space-around;}
 .columna1 {
     width: 250px;
     height: 550px;
